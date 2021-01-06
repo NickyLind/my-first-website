@@ -1,8 +1,8 @@
-# _{my-first-webpage}_
+# _my-first-webpage_
 
-### _{first webpage made for Epicodus}_
+### _first webpage made for Epicodus_
 
-#### _[By: NickyLind@github.com]
+#### _[By: NickyLind@github.com]_
 
 ## Technologies used
 
